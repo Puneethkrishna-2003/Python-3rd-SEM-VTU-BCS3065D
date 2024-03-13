@@ -1,7 +1,7 @@
 print("Enter the marks of each test")
-test1 = int(input("TEST 1 - "))
-test2 = int(input("TEST 2 - "))
-test3 = int(input("TEST 3 - "))
+test1 = int(input("TEST 1 "))
+test2 = int(input("TEST 2 "))
+test3 = int(input("TEST 3 "))
 avg1 = (test1 + test2) / 2
 avg2 = (test2 + test3) / 2
 avg3 = (test1 + test3) / 2
